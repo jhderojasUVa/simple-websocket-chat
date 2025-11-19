@@ -1,5 +1,5 @@
 {
-  "name": "antigravity-test",
+  "name": "websocket-api-chat",
   "version": "1.0.0",
   "description": "Chat API PoC with Express and TypeScript",
   "main": "dist/server.js",
